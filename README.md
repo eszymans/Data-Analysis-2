@@ -7,12 +7,11 @@ This project is a group assignment for university studies. It focuses on impleme
 ## Features
 
 - **K-Means Algorithm Implementation**
-  - Implements the k-means clustering algorithm based on the description in *kMeans.pdf*.
+  - Implements the k-means clustering algorithm
   - Demonstrates the algorithm’s functionality using a modified Iris dataset (without species labels).
 - **Data Clustering and Visualization**
   - Performs clustering in a four-dimensional space using all four features.
   - Visualizes clustering results using scatter plots for six possible feature pairs.
-  - Displays cluster assignments following the example in *kMeans.pdf* (Figure 3, right-side image).
 - **WCSS and Iteration Analysis**
   - Runs k-means clustering for values of k ranging from 2 to 10.
   - Records the number of iterations required for convergence.
